@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @NickAbrams
+- 👀 I’m interested in ...  
+Portfolio Theory and Financial Modeling,  
+- 🌱 I’m currently learning ...
+Constraint Programming, Accounting 
+- 💞️ I’m looking to collaborate on ...
+Financial Modeling Projects and modeling out dynamic environments.
+- 📫 How to reach me ...
+Here on Githob
+<!---
+NickAbrams/NickAbrams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
